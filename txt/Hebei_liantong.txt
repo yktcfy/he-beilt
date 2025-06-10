@@ -16,8 +16,12 @@ http://121.29.169.130:8888/rtp/239.253.92.149:6035
 http://121.29.169.130:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.130:8888/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.130:8888/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.130:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.130:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.130:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.130:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -140,8 +144,12 @@ http://121.29.111.203:8888/rtp/239.253.92.149:6035
 http://121.29.111.203:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.111.203:8888/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.111.203:8888/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.111.203:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.111.203:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.111.203:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.111.203:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -202,8 +210,12 @@ http://61.55.208.152:4022/rtp/239.253.92.149:6035
 http://61.55.208.152:4022/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://61.55.208.152:4022/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://61.55.208.152:4022/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://61.55.208.152:4022/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://61.55.208.152:4022/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://61.55.208.152:4022/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://61.55.208.152:4022/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -264,8 +276,12 @@ http://121.29.169.29:7777/rtp/239.253.92.149:6035
 http://121.29.169.29:7777/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.29:7777/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.29:7777/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.29:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.29:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.29:7777/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.29:7777/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -326,8 +342,12 @@ http://121.29.169.130:7777/rtp/239.253.92.149:6035
 http://121.29.169.130:7777/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.130:7777/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.130:7777/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.130:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.130:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.130:7777/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.130:7777/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -388,8 +408,12 @@ http://110.231.37.126:9999/rtp/239.253.92.149:6035
 http://110.231.37.126:9999/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://110.231.37.126:9999/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://110.231.37.126:9999/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://110.231.37.126:9999/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://110.231.37.126:9999/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://110.231.37.126:9999/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://110.231.37.126:9999/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -450,8 +474,12 @@ http://101.74.29.67:8818/rtp/239.253.92.149:6035
 http://101.74.29.67:8818/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://101.74.29.67:8818/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://101.74.29.67:8818/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://101.74.29.67:8818/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://101.74.29.67:8818/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://101.74.29.67:8818/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://101.74.29.67:8818/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -512,8 +540,12 @@ http://101.19.8.58:4000/rtp/239.253.92.149:6035
 http://101.19.8.58:4000/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://101.19.8.58:4000/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://101.19.8.58:4000/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://101.19.8.58:4000/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://101.19.8.58:4000/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://101.19.8.58:4000/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://101.19.8.58:4000/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -574,8 +606,12 @@ http://121.29.169.104:2083/rtp/239.253.92.149:6035
 http://121.29.169.104:2083/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.104:2083/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.104:2083/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.104:2083/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.104:2083/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.104:2083/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.104:2083/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -636,8 +672,12 @@ http://101.31.195.128:4022/rtp/239.253.92.149:6035
 http://101.31.195.128:4022/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://101.31.195.128:4022/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://101.31.195.128:4022/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://101.31.195.128:4022/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://101.31.195.128:4022/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://101.31.195.128:4022/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://101.31.195.128:4022/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -698,8 +738,12 @@ http://121.29.169.29:8888/rtp/239.253.92.149:6035
 http://121.29.169.29:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.29:8888/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.29:8888/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.29:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.29:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.29:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.29:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -760,8 +804,12 @@ http://60.3.123.89:7000/rtp/239.253.92.149:6035
 http://60.3.123.89:7000/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://60.3.123.89:7000/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://60.3.123.89:7000/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://60.3.123.89:7000/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://60.3.123.89:7000/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://60.3.123.89:7000/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://60.3.123.89:7000/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -822,8 +870,12 @@ http://110.248.147.36:8888/rtp/239.253.92.149:6035
 http://110.248.147.36:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://110.248.147.36:8888/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://110.248.147.36:8888/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://110.248.147.36:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://110.248.147.36:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://110.248.147.36:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://110.248.147.36:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -884,8 +936,12 @@ http://121.29.215.41:7777/rtp/239.253.92.149:6035
 http://121.29.215.41:7777/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.215.41:7777/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.215.41:7777/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.215.41:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.215.41:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.215.41:7777/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.215.41:7777/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -946,8 +1002,12 @@ http://121.29.215.41:8888/rtp/239.253.92.149:6035
 http://121.29.215.41:8888/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.215.41:8888/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.215.41:8888/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.215.41:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.215.41:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.215.41:8888/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.215.41:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -1008,8 +1068,12 @@ http://121.29.169.176:2083/rtp/239.253.92.149:6035
 http://121.29.169.176:2083/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.176:2083/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.176:2083/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.176:2083/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.176:2083/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.176:2083/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.176:2083/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
@@ -1070,8 +1134,12 @@ http://121.29.169.37:7777/rtp/239.253.92.149:6035
 http://121.29.169.37:7777/rtp/239.253.92.93:8120
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="卫视高清",石家庄生活
 http://121.29.169.37:7777/rtp/239.253.92.94:8121
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="卫视高清",石家庄都市
-http://121.29.169.37:7777/rtp/239.253.92.95:8122
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
+http://121.29.169.37:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="https://live.fanmingming.com/tv/保定公共.png" group-title="卫视高清",保定公共
+http://121.29.169.37:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
+http://121.29.169.37:7777/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://live.fanmingming.com/tv/中华美食.png" group-title="卫视高清",中华美食
 http://121.29.169.37:7777/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
