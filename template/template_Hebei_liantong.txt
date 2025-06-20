@@ -10,6 +10,8 @@ http://ipipip/rtp/239.253.92.174:6004
 http://ipipip/rtp/239.253.92.175:6005
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://live.fanmingming.com/tv/河北农民.png" group-title="卫视高清",河北农民
 http://ipipip/rtp/239.253.92.176:6006
+#EXTINF:-1 tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="https://live.fanmingming.com/tv/河北杂技.png" group-title="卫视高清",河北杂技
+http://ipipip/rtp/239.253.93.170:6338
 #EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png" group-title="卫视高清",石家庄新闻综合
 http://ipipip/rtp/239.253.92.149:6035
 #EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png" group-title="卫视高清",石家庄娱乐
