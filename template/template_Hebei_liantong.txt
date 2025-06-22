@@ -66,3 +66,71 @@ http://ipipip/rtp/239.253.92.222:8112
 http://ipipip/rtp/239.253.92.223:8113
 #EXTINF:-1 tvg-id="三河综合" tvg-name="三河综合" tvg-logo="https://live.fanmingming.com/tv/三河综合.png" group-title="卫视高清",三河综合
 http://ipipip/rtp/239.253.93.143:6311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",深泽综合
+http://ipipip/rtp/239.253.94.31:6630
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",赵县综合
+http://ipipip/rtp/239.253.93.140:6308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",晋州综合
+http://ipipip/rtp/239.253.93.156:6324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",井陉综合
+http://ipipip/rtp/239.253.93.205:6383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",平泉综合
+http://ipipip/rtp/239.253.92.156:6012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",兴隆综合
+http://ipipip/rtp/239.253.93.104:6271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",隆化综合
+http://ipipip/rtp/239.253.93.174:6342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",康保综合
+http://ipipip/rtp/239.253.93.165:6333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵化综合
+http://ipipip/rtp/239.253.93.177:6345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",成安综合
+http://ipipip/rtp/239.253.93.178:6346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",魏县综合
+http://ipipip/rtp/239.253.93.185:6353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",滦南综合
+http://ipipip/rtp/239.253.92.218:6100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",玉田综合
+http://ipipip/rtp/239.253.92.118:6133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",吴桥综合
+http://ipipip/rtp/239.253.93.169:6337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阜平综合
+http://ipipip/rtp/239.253.93.16:6169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涞水综合
+http://ipipip/rtp/239.253.93.17:6170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黄骅综合
+http://ipipip/rtp/239.253.92.183:6047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",定州综合
+http://ipipip/rtp/239.253.93.95:6260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雄县综合
+http://ipipip/rtp/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涞源综合
+http://ipipip/rtp/239.253.93.22:6175
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",高碑店综合
+http://ipipip/rtp/239.253.93.23:6176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涿州综合
+http://ipipip/rtp/239.253.93.27:6180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",唐县综合
+http://ipipip/rtp/239.253.93.30:6183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",曲阳综合
+http://ipipip/rtp/239.253.93.31:6184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",柏乡综合
+http://ipipip/rtp/239.253.93.171:6339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",徐水综合
+http://ipipip/rtp/239.253.93.182:6350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",景县综合
+http://ipipip/rtp/239.253.93.38:6191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",饶阳综合
+http://ipipip/rtp/239.253.93.40:6193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涉县综合
+http://ipipip/rtp/239.253.93.106:6273
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",鸡泽综合
+http://ipipip/rtp/239.253.93.64:6219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",武安综合
+http://ipipip/rtp/239.253.93.62:6215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",枣强综合
+http://ipipip/rtp/239.253.93.166:6334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",清河综合
+http://ipipip/rtp/239.253.93.44:6197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",大厂融媒体中心
+http://ipipip/rtp/239.253.92.253:6244
