@@ -24,8 +24,6 @@ http://ipipip/rtp/239.254.200.144:6000
 http://ipipip/rtp/239.254.200.145:6000
 #EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="https://live.fanmingming.com/tv/保定生活健康.png" group-title="卫视高清",保定生活健康
 http://ipipip/rtp/239.254.200.146:6000
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
-http://ipipip/rtp/239.254.201.184:6263
 #EXTINF:-1 tvg-id="秦皇岛新闻综合" tvg-name="秦皇岛新闻综合" tvg-logo="https://live.fanmingming.com/tv/秦皇岛新闻综合.png" group-title="卫视高清",秦皇岛新闻综合
 http://ipipip/rtp/239.254.200.39:6000
 #EXTINF:-1 tvg-id="秦皇岛公共" tvg-name="秦皇岛公共" tvg-logo="https://live.fanmingming.com/tv/秦皇岛公共.png" group-title="卫视高清",秦皇岛公共
@@ -132,3 +130,5 @@ http://ipipip/rtp/239.254.201.136:5363
 http://ipipip/rtp/239.254.200.170:5366
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",大厂融媒体中心
 http://ipipip/rtp/239.254.201.71:5310
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="卫视高清",中华特产
+http://ipipip/rtp/239.254.201.184:6263
