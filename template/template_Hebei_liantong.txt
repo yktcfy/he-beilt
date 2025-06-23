@@ -98,8 +98,6 @@ http://ipipip/rtp/239.253.93.17:6170
 http://ipipip/rtp/239.253.92.183:6047
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",定州综合
 http://ipipip/rtp/239.253.93.95:6260
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雄县综合
-http://ipipip/rtp/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",涞源综合
 http://ipipip/rtp/239.253.93.22:6175
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",高碑店综合
